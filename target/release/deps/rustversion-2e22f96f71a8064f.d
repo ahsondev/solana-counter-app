@@ -1,0 +1,19 @@
+/home/ruster/MyData/Solana/mysolanaapp/target/release/deps/librustversion-2e22f96f71a8064f.so: /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/lib.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/attr.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/bound.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/constfn.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/date.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/error.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/expr.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/iter.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/release.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/time.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/token.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/version.rs /home/ruster/MyData/Solana/mysolanaapp/target/release/build/rustversion-30965d9d315f9d96/out/version.rs
+
+/home/ruster/MyData/Solana/mysolanaapp/target/release/deps/rustversion-2e22f96f71a8064f.d: /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/lib.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/attr.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/bound.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/constfn.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/date.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/error.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/expr.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/iter.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/release.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/time.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/token.rs /home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/version.rs /home/ruster/MyData/Solana/mysolanaapp/target/release/build/rustversion-30965d9d315f9d96/out/version.rs
+
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/lib.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/attr.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/bound.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/constfn.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/date.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/error.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/expr.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/iter.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/release.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/time.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/token.rs:
+/home/ruster/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.5/src/version.rs:
+/home/ruster/MyData/Solana/mysolanaapp/target/release/build/rustversion-30965d9d315f9d96/out/version.rs:
+
+# env-dep:OUT_DIR=/home/ruster/MyData/Solana/mysolanaapp/target/release/build/rustversion-30965d9d315f9d96/out
